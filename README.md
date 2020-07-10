@@ -14,7 +14,7 @@ $ ls
 
 $ chmod +x *
 
-$ bash Kurulum.sh
+$ python2 SecretOzi-SMS.py
 
 $ (Hedef No ) +90TRTRTRTRTRTR
 
